@@ -1,0 +1,6 @@
+C:\Users\Koyal PC\source\repos\BoatRentSolution.Data\obj\Debug\netcoreapp3.0\BoatRentSolution.Data.csprojAssemblyReference.cache
+C:\Users\Koyal PC\source\repos\BoatRentSolution.Data\obj\Debug\netcoreapp3.0\staticwebassets\BoatRentSolution.Data.StaticWebAssets.Manifest.cache
+C:\Users\Koyal PC\source\repos\BoatRentSolution.Data\obj\Debug\netcoreapp3.0\staticwebassets\BoatRentSolution.Data.StaticWebAssets.xml
+C:\Users\Koyal PC\source\repos\BoatRentSolution.Data\obj\Debug\netcoreapp3.0\BoatRentSolution.Data.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Koyal PC\source\repos\BoatRentSolution.Data\obj\Debug\netcoreapp3.0\BoatRentSolution.Data.AssemblyInfoInputs.cache
+C:\Users\Koyal PC\source\repos\BoatRentSolution.Data\obj\Debug\netcoreapp3.0\BoatRentSolution.Data.AssemblyInfo.cs
